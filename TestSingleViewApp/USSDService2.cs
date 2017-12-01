@@ -60,13 +60,31 @@ namespace TestSingleViewApp
         {
             foreach (char s in eventText)
             {
-                string text = s;
+                string text = s.ToString();
+                
+                if (true)
+                {
+                    return text;
+                }
             }
+            return null;
         }
 
         public override void OnInterrupt()
         {
             throw new NotImplementedException();
+        }
+
+        protected override void OnServiceConnected()
+        {
+            base.OnServiceConnected();
+            Log.Debug(TAG, "onServiceConnected");
+            AccessibilityServiceInfo info = new AccessibilityServiceInfo();
+            info.Flags = AccessibilityServiceFlags.Default;
+            info.PackageNames = new string[] { "com.android.phone" };
+            info.EventTypes = EventTypes.WindowStateChanged | EventTypes.WindowsChanged;
+            info.FeedbackType = Android.AccessibilityServices.FeedbackFlags.Generic;
+            SetServiceInfo(info);
         }
     }
 }

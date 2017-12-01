@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ResourcesForXamarinCSJava.txt" />
+    <AndroidResource Include="Resources\xml\config_service.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
