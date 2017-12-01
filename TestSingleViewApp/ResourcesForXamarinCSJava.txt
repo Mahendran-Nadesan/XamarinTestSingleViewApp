@@ -1,0 +1,30 @@
+﻿
+https://gist.github.com/victorkifer/8616266/forks | Forks · USSDNetworkService.java
+https://gist.github.com/Boggartfly/4d27f2e9bef13246111f | USSDNetworkService.java
+https://www.google.co.za/search?ei=bB8hWujbF-eIgAa3xJMw&q=com.android.internal.telephony.iextendednetworkservice+xamarin&oq=com.android.internal.telephony.IExtendedNetworkService+xa&gs_l=psy-ab.3.1.33i160k1l2.4443.5099.0.9723.3.3.0.0.0.0.367.582.2-1j1.2.0....0...1c.1.64.psy-ab..1.1.367....0.5KhB9_sZOy8 | com.android.internal.telephony.iextendednetworkservice xamarin - Google Search
+https://www.snip2code.com/Snippet/24224/USSDNetworkService-used-to-replace-Andro | Snip2Code - USSDNetworkService used to replace Android default one and get USSD messages results.
+https://stackoverflow.com/questions/26701743/android-pass-string-into-onbind-service-causes-crash | methods - Android pass string into onbind service causes crash - Stack Overflow
+https://www.google.co.za/search?q=ussd+service+c%23&oq=ussd+service+c%23&aqs=chrome..69i57.4111j0j7&sourceid=chrome&ie=UTF-8 | ussd service c# - Google Search
+http://www.smsco.it/tomcat/en/sms_tutorials/sms_from_c_sharp.jsp | How to send SMS from C# .NET - Receive SMS with C Sharp dotNet
+https://mybroadband.co.za/vb/showthread.php/215197-USSD-commands-with-Vodafone-Mobile-Connect-Lite/page2 | USSD commands with Vodafone Mobile Connect Lite - Page 2
+https://developer.android.com/reference/android/provider/Telephony.html | Telephony | Android Developers
+https://stackoverflow.com/questions/22057625/prevent-ussd-dialog-and-read-ussd-response | android - Prevent USSD dialog and read USSD response? - Stack Overflow
+https://www.google.co.za/search?ei=-CAhWomSJquMgAb43a34CA&q=AccessibilityEvent.TYPE_WINDOW_STATE_CHANGED+xamarin&oq=AccessibilityEvent.TYPE_WINDOW_STATE_CHANGED+xamarin&gs_l=psy-ab.3..33i160k1.253360.254239.0.254444.7.6.0.0.0.0.324.324.3-1.1.0....0...1c.1.64.psy-ab..6.1.323....0.egOM6XejVOo | AccessibilityEvent.TYPE_WINDOW_STATE_CHANGED xamarin - Google Search
+https://developer.xamarin.com/api/type/Android.AccessibilityServices.AccessibilityService/ | AccessibilityService Class - Xamarin
+https://developer.xamarin.com/api/field/Android.Resource+Attribute.AccessibilityEventTypes/ | AccessibilityEventTypes - Xamarin
+https://developer.android.com/reference/android/view/accessibility/AccessibilityEvent.html#TYPE_WINDOW_STATE_CHANGED | AccessibilityEvent | Android Developers
+https://developer.xamarin.com/api/type/Android.Views.Accessibility.AccessibilityWindowType/ | AccessibilityWindowType Enumeration - Xamarin
+https://stackoverflow.com/questions/19066677/how-to-get-response-from-ussd-code-from-android | service - How to Get Response from USSD code from Android? - Stack Overflow
+https://stackoverflow.com/questions/14148952/using-iextendednetworkservice-to-get-ussd-response-in-android | java - Using IExtendedNetworkService to get USSD response in Android - Stack Overflow
+https://developer.xamarin.com/api/type/Android.AccessibilityServices.AccessibilityService/ | AccessibilityService Class - Xamarin
+https://www.google.co.za/search?ei=mCMhWq_EKt_wgAaDhqHoAg&q=java+charsequence+xamarin&oq=java+charsequence+xamarin&gs_l=psy-ab.3..33i160k1.57404.58503.0.58744.7.7.0.0.0.0.261.261.2-1.1.0....0...1c.1.64.psy-ab..6.1.260....0.KyL6PYWDjKc | java charsequence xamarin - Google Search
+https://developer.xamarin.com/api/type/Android.Runtime.CharSequence/ | CharSequence Class - Xamarin
+https://github.com/xamarin/xamarin-android/blob/master/src/Mono.Android/Android.Runtime/CharSequence.cs | xamarin-android/CharSequence.cs at master · xamarin/xamarin-android
+https://developer.xamarin.com/api/type/Java.Lang.ICharSequence/ | ICharSequence Interface - Xamarin
+https://stackoverflow.com/questions/37552489/i-cant-convert-java-code-to-xamarin-android-in-below-code | c# - I can't convert java code to xamarin android in below code? - Stack Overflow
+https://www.google.co.za/search?q=Collections.singletonList+c%23&oq=Collections.singletonList+c%23&aqs=chrome..69i57.2719j0j7&sourceid=chrome&ie=UTF-8 | Collections.singletonList c# - Google Search
+https://www.dotnetperls.com/static-list | C# Static List Example - Dot Net Perls
+https://developer.xamarin.com/api/type/Android.Content.Context/
+https://stackoverflow.com/questions/26668509/how-do-i-use-sharedpreferences-in-xamarin-android
+https://www.carlosag.net/tools/codetranslator/
+https://developer.xamarin.com/recipes/android/fundamentals/intent/launch_the_phone_dialer/
