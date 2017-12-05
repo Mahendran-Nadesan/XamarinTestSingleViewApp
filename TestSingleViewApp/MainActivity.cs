@@ -5,6 +5,7 @@ using Android.Net;
 using Android.Content;
 using Android.Provider;
 
+
 namespace TestSingleViewApp
 {
     [Activity(Label = "TestSingleViewApp", MainLauncher = true, Icon = "@mipmap/icon")]
